@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
     <notification groupId="Dependencies from package.json" displayType="STICKY_BALLOON" />
     <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
     <notification groupId="Find Problems" displayType="STICKY_BALLOON" />
@@ -8,5 +9,6 @@
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" />
     <notification groupId="Indexing" />
     <notification groupId="Profiling" />
+    <notification groupId="Remote Desktop" />
   </component>
 </application>
